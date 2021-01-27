@@ -24,17 +24,17 @@ BIOL2171 Biochemistry and nutrition
 
 CHEM2211 Chemical Biology
 
-BIOL2142 General Microbiology
+<u>BIOL2142 General Microbiology</u>
 
 ### Year Three
 
-BIOL3141 Infection and immunity
+<u>BIOL3141 Infection and immunity</u>
 
-BIOL3161 Genomics and its applications 
+<u>BIOL3161 Genomics and its applications</u> 
 
-BIOL3108 Hallmarks of cancer
+<u>BIOL3108 Hallmarks of cancer</u>
 
-BIOL3157 Bioinformatics and its applications
+<u>BIOL3157 Bioinformatics and its applications</u>
 
 BIOL3191 Biology, society and ethics
 
@@ -46,15 +46,13 @@ BIOL3193 Bacteria and health: an ecological and evolutionary perspective
 
 BIOL6006 Genetics
 
-BIOL8291 Research Presentation Skills
+<u>BIOL8291 Research Presentation Skills</u>
 
-BIOL8702 Advanced Research Techniques
+<u>BIOL8702 Advanced Research Techniques</u>
 
 BIOL8001 Consulting in Quantitative Biology (Using R in biological statistical analysis)
 
 BIOL8700 Research Proposal (Develop a research proposal for a [soil decomposition experiment](independent_page/soil_project.md))
 
-SCOM6015 Speaking of Science 
-
-### Year Two
+SCOM6015 Speaking of Science
 
