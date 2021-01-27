@@ -4,7 +4,7 @@
 
 ## Navigator
 
-[Posts](post.md)   /   [CV](cv.md)   /   [Ideas](idea.md)    /     [About](about.md)  
+[Posts](post.md)   /   CV   /   [Ideas](idea.md)    /     [About](about.md)  
 
  <br />
 

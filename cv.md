@@ -2,11 +2,15 @@
 
 **Wenbo Yue**
 
-u5923180@anu.edu.au
+Email: <Wenbo.Yue@anu.edu.au>
 
 ## RESEARCH INTERESTS
 
-Genetics, bacterial transporters function & their evolutionary paths, bioinformatics
+**Genetics** -- Function of  gene responsible for specific mechanisms
+
+**Synthetic** **Biology** -- Programmable gene component/genetic circuit
+
+**Bacterial** transporters function & their evolutionary paths
 
 ## EDUCATION
 
@@ -21,12 +25,10 @@ Graduate Diploma of Science, Feb 2020 to Sept 2020 - Australian National Univers
 [*Course taken*](courses.md)
 
 - Gain knowledge in molecular gene techniques
-
 - Gain knowledge in immunity and cancer
-
 - Gain knowledge in Bacteria and bacterial populations
-
 - Gain knowledge in computational biology and genetics
+- (and more..)
 
 <u>Aug 2020 - Sept 2020</u> Developed a complete research proposal of a [soil decomposition project](independent_page/soil_project.md)
 
