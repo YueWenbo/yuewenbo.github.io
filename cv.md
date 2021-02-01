@@ -10,7 +10,9 @@ Email: <Wenbo.Yue@anu.edu.au>
 
 **Synthetic** **Biology** -- Programmable gene component/genetic circuit
 
-**Bacterial** transporters function & their evolutionary paths
+**Transporters** function & their evolutionary paths
+
+**Cancer** -- The regulate of cancer cells (and more..)
 
 ## EDUCATION
 
