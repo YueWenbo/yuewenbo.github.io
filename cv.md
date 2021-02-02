@@ -8,7 +8,7 @@ Email: <Wenbo.Yue@anu.edu.au>
 
 **Genetics** -- Function of  gene responsible for specific mechanisms
 
-**Synthetic** **Biology** -- Programmable gene component/genetic circuit
+**Synthetic** **Biology** -- Programmable gene component/genetic circuit involves in plant signalling and metabolism 
 
 **Transporters** function & their evolutionary paths
 
