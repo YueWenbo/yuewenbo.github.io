@@ -12,7 +12,9 @@
 
 ### Latest News
 
- ... (Waiting for good thing happens.)
+ [How to make notes effectively](post/notetaking.md)
+
+Have started to work on research proposal for master project.
 
  <br />
 
@@ -32,4 +34,4 @@ E-mail: <Wenbo.Yue@anu.edu.au>
 
  <br />
 
-*Last update: 22 Jan 2021*
+*Last update: 03 March 2021*
