@@ -6,7 +6,7 @@
 
 I am a second-year master student from ANU. I will start conduct my master research project in year 2021. 
 
-It is commonly know that a ordinary master student like me can't make much valuable findings in a one year master project. The most important goal I would like to accomplish in this year is to make myself fully prepared for future research. In undergraduate period, the majority things I did is learning and writing assignments. It was a passive learning. From the first year postgraduate coursework I noticed that doing research is not like that, it requries a skill of discover, to use what you don't know to find what you what to know, which means that passive learning is far from satisfactory. 
+It is commonly know that a ordinary master student like me can't make much valuable findings in a one year master project. The most important goal I would like to accomplish in this year is to make myself fully prepared for future research. In undergraduate period, the majority things I did is learning and writing assignments. It was a passive learning. From the first year postgraduate coursework I noticed that doing research is not like that, it requires a skill of discover, to use what you don't know to find what you what to know, which means that passive learning is far from satisfactory. 
 
 This 'blog' (or archive) is used to record my thoughts from daily learning and reading. Many thoughts were lost in time as I didn't write them down when they appeared. The reason is that I didn't think my writing is sufficient enough to clearly establish those thoughts. In my opinion, ideas are valuable, sometimes even more valuable than actual findings, because you can not find anything if you don't have an idea to start with.
 
@@ -16,9 +16,9 @@ This blog is a milestone.
 
 ## About this page
 
-This github page is used to show my academic path since undergraduate study. It includes a [complete CV](cv.md), a  list of articles generated from everyday thoughts (a blog, more likely) and (will include) future synthesis from reading and learning. 
+This GitHub page is used to show my academic path since undergraduate study. It includes a [complete CV](cv.md), a  list of articles generated from everyday thoughts (a blog, more likely) and (will include) future synthesis from reading and learning. 
 
-The theme of this blog is designed with no theme. The design language is 'simple'. Only essential text content and link between pages are used. All pages are written in [Markdown](https://daringfireball.net/projects/markdown/) and simpley deployed in Github repository. 
+The theme of this blog is designed with no theme. The design language is 'simple'. Only essential text content and link between pages are used. All pages are written in [Markdown](https://daringfireball.net/projects/markdown/) and simple deployed in Github repository. 
 
 > A guide of how to deploy GitHub pages can be found [here](https://pages.github.com).
 
