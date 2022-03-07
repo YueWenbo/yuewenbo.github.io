@@ -8,7 +8,7 @@ Email: <Wenbo.Yue@anu.edu.au>
 
 **Genetics** -- Function of  gene responsible for specific mechanisms
 
-**Synthetic** **Biology** -- Programmable gene component/genetic circuit involves in plant signalling and metabolism 
+**Synthetic** **Biology** -- Programmable gene component/genetic circuit involves in plant signaling and metabolism 
 
 **Transporters** function & their evolutionary paths
 
@@ -24,7 +24,7 @@ Graduate Diploma of Science, Feb 2020 to Sept 2020 - Australian National Univers
 
 ## ACADEMIC EXPERIENCE
 
-<u>Feb 2016 - Sept 2019</u> Finished Bachelor degree in Biotechnology, with two minor degrees in **Finance** and **economics/bussiness**. 
+<u>Feb 2016 - Sept 2019</u> Finished Bachelor degree in Biotechnology, with two minor degrees in **Finance** and **economics/business**. 
 
 [*Course taken*](courses.md)
 
@@ -42,3 +42,5 @@ Graduate Diploma of Science, Feb 2020 to Sept 2020 - Australian National Univers
   - Using a shared available facility
   - Easy to turn into a long term, wide range decomposition study
 - Gain experience in quick learning and get familiar with a whole new field
+
+<u>Feb 2021 - Nov 2021</u> Finished a project 

@@ -12,6 +12,8 @@
 
 ### Latest News
 
+[How evolution give up regeneration](post/give_up_regen.md)
+
  [How to make notes effectively](post/notetaking.md)
 
 Have started to work on research proposal for master project.
