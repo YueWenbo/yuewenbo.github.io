@@ -10,3 +10,8 @@
 
 **2021**
 
+*No writings for year 2021*
+
+**2022**
+
+- [How evolution give up regeneration](post/give_up_regen.md)

@@ -4,7 +4,7 @@
 
 ## Navigator
 
-[Posts](post.md)   /   CV   /   [Ideas](idea.md)    /     [About](about.md)  
+[Posts](post.md)   /   [Ideas](idea.md)    /     [About](about.md)  
 
  <br />
 
@@ -36,4 +36,4 @@ E-mail: <Wenbo.Yue@anu.edu.au>
 
  <br />
 
-*Last update: 03 March 2021*
+*Last update: 07 March 2022*
