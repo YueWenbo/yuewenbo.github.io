@@ -4,7 +4,7 @@
 
 ## My goal
 
-I am a second-year master student from ANU. I will start conduct my master research project in year 2021. 
+I am a master graduate at ANU. I finished my master degree in year 2021, and now I am working as a research assistant in ANU for the extension of my master project. 
 
 It is commonly know that a ordinary master student like me can't make much valuable findings in a one year master project. The most important goal I would like to accomplish in this year is to make myself fully prepared for future research. In undergraduate period, the majority things I did is learning and writing assignments. It was a passive learning. From the first year postgraduate coursework I noticed that doing research is not like that, it requires a skill of discover, to use what you don't know to find what you what to know, which means that passive learning is far from satisfactory. 
 
@@ -13,16 +13,6 @@ This 'blog' (or archive) is used to record my thoughts from daily learning and r
 This year is a fresh start for me. I am thirst for new knowledge and want to know what ideas can I generate. 
 
 This blog is a milestone.  
-
-## About this page
-
-This GitHub page is used to show my academic path since undergraduate study. It includes a [complete CV](cv.md), a  list of articles generated from everyday thoughts (a blog, more likely) and (will include) future synthesis from reading and learning. 
-
-The theme of this blog is designed with no theme. The design language is 'simple'. Only essential text content and link between pages are used. All pages are written in [Markdown](https://daringfireball.net/projects/markdown/) and simple deployed in Github repository. 
-
-> A guide of how to deploy GitHub pages can be found [here](https://pages.github.com).
-
-This page has no forward/back buttons, because it is complex. Please use the forward/back button in your web browser. 
 
 ## Contact me
 
